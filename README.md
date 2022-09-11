@@ -48,11 +48,6 @@ https://bathandbodywork.netlify.app/
 
   ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Cart%20Page.png?raw=true)
 
-- *Pricing Page*
-
-  ![Screenshot (905)](https://user-images.githubusercontent.com/101388961/187072525-c33b064c-458b-4951-bb91-ecc51159043a.png)
-
-
 - *Billing*
 
   ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Billing1.png?raw=true)
