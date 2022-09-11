@@ -29,37 +29,35 @@ https://bathandbodywork.netlify.app/
 
 - *Landing Page*
 
-  ![Screenshot (901)](https://user-images.githubusercontent.com/101388961/187072296-15c5b11d-88d4-4c25-bc83-0b9aab7287a2.png)
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Landing%20Pagg1%201.png?raw=true)
+  
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Landing%20Page%202.png?raw=true)
+  
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Landing%20Page%203.png?raw=true)
 
 
-- *Learn and Grow section*
+- *Product Page*
 
-  ![Screenshot (902)](https://user-images.githubusercontent.com/101388961/187072383-f2b7dc1d-a779-4ff0-9b72-d3fd183d965e.png)
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Product%20Page%201.png?raw=true)
+  
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Product%20Page%202.png?raw=true)
+  
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Products%20Page%201.png?raw=true)
 
-- *Login Page*
+- *Cart Section*
 
-  ![Screenshot (903)](https://user-images.githubusercontent.com/101388961/187072435-a650faf1-acc9-4981-bc6d-569b5f4625b3.png)
-
-- *Software CRM Page*
-
-  ![Screenshot (904)](https://user-images.githubusercontent.com/101388961/187072477-16c1725c-f901-498e-9e2f-7291c7ac8be2.png)
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Cart%20Page.png?raw=true)
 
 - *Pricing Page*
 
   ![Screenshot (905)](https://user-images.githubusercontent.com/101388961/187072525-c33b064c-458b-4951-bb91-ecc51159043a.png)
 
 
-- *Subscription Page*
+- *Billing*
 
-  ![Screenshot (906)](https://user-images.githubusercontent.com/101388961/187072568-e89f3c34-031c-428d-b91e-48fef92e9bd2.png)
-
-- *Review Page*
-
-  ![Screenshot (909)](https://user-images.githubusercontent.com/101388961/187072596-85d7265b-8b26-437a-b331-93b9cff2bf6c.png)
-
-  - *Contact-us Page*
-
-  ![Screenshot (908)](https://user-images.githubusercontent.com/101388961/187072626-1f8c1c34-ff58-4347-b849-d662dda34811.png)
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Billing1.png?raw=true)
+  
+  ![](https://github.com/sanjaykumarverma01/Bath-Body-Works/blob/main/SS/Billing%202.png?raw=true)
 
 
 ------
